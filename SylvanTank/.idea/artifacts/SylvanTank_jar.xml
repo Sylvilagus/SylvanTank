@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SylvanTank:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SylvanTank_jar</output-path>
+    <root id="archive" name="SylvanTank.jar">
+      <element id="module-output" name="SylvanTank" />
+    </root>
+  </artifact>
+</component>
